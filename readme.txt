@@ -5,6 +5,6 @@ A divisão de funções está logo abaixo:
 
 Abner - oq é iot
 Gabriel H - página inicial e onde comprar/adquirir iots
-Gusmão - história iot
+Gusmão - história iot e objetivos
 João Paulo - Cabeçalho, Banner rotativo, footer(não inventa moda, pega do bootstrap ou do Landerlab)
 Richard - Exemplos de iot
